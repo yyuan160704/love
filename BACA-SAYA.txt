@@ -1,0 +1,13 @@
+OUR LOVE STORY
+
+Cara membuka:
+1. Ekstrak file ZIP ini.
+2. Klik dua kali index.html (buka dengan Chrome, Edge, Firefox, atau Safari).
+
+Cara memakai:
+- Klik "Mode Edit" di kanan atas untuk menambah, mengubah, atau menghapus cerita dan media.
+- Matikan Mode Edit agar tampilan bersih saat dilihat pasangan.
+- Semua data tersimpan di browser (LocalStorage) pada perangkat yang sama.
+- Foto/video memakai URL (jpg, png, mp4, atau link YouTube).
+- Musik memakai link langsung file .mp3 (ubah lewat tombol "Ubah" di pemutar saat Mode Edit aktif).
+- Butuh internet untuk memuat font dan gambar/musik contoh.
